@@ -15,4 +15,12 @@
  - [ ] 通过私钥导入账户
  - [ ] 通过助记词导入账户
  - [ ] 前端页面
-  
+
+
+### References
+
+ - https://github.com/nervosnetwork/lumos
+ - https://zero2ckb.ckbapp.dev/learn#how-to-send-a-tx
+ - https://github.com/huwenchao/ckb-sudt-dapp-demo
+ - https://github.com/nervosnetwork/ckb-system-scripts/wiki/How-to-sign-transaction
+ - https://cryptape.github.io/lumos-doc/docs/preparation/hellolumos
